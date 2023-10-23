@@ -1,3 +1,4 @@
+// Fetch
 const apiKey = '';
 
 const httpRequest = fetch(`https://api.giphy.com/v1/gifs/random?api_key=${apiKey}`);
